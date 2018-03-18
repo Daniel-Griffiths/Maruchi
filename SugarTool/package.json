@@ -1,8 +1,8 @@
 {
-	"name": "",
+	"name": "Maruchi",
 	"version": "0.1.0",
 	"author": "Daniel Griffiths",
-	"description": "",
+	"description": "A tool which allows you to have multiple chat apps open at the once",
 	"private": true,
 	"dependencies": {
 		"react": "^16.2.0",
