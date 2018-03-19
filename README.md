@@ -1,6 +1,6 @@
 # Maruchi
 
-A tool which allows you to have multiple chat apps open at the once.
+A tool that allows you to have multiple chat apps open at the once.
 
 (Unfinished and still in development)
 
